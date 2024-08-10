@@ -1,7 +1,7 @@
 # Azure-streaming-analytics
 ## Processing Stream Data With SQL
 ## INTRODUCTION
-This project demonstrates how to ingest real-time sensor data from a Raspberry Pi IoT simulator into Azure IoT Hub, process the streaming data using Azure Stream Analytics, and store the filtered output in Azure Blob storage for further analysis and visualization in Power BI.
+This project demonstrates how to ingest real-time sensor data from a Raspberry Pi IoT simulator into Azure IoT Hub, processed the streaming data using Azure Stream Analytics, and store the filtered output in Azure Blob storage for further analysis and visualization in Power BI.
 By leveraging Azure's IoT and data analytics services, this project showcases an end-to-end pipeline for collecting, processing, and storing IoT data at scale, enabling valuable insights and decision-making based on the streaming sensor information.
 ## TECHNOLOGY USED 
 - Azure IoT Hub: A cloud service that facilitates communication between IoT applications and devices.
